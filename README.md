@@ -1,6 +1,11 @@
-## Hi there 👋
+# Hi, I'm Jaian400! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Jaian400=your-github-Jaian400&layout=compact)
+## 📊 GitHub Stats:
+![Jaian400's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaian400&show_icons=true&theme=dark)
+
+## 🔥 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaian400&layout=compact&theme=dark)
+
 
 
 <!--
