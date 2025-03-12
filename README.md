@@ -14,11 +14,11 @@
 <!--
 ## 📊 GitHub Stats:
 ![Jaian400's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaian400&show_icons=true&theme=dark)
--->
+
 
 ## ⚡ GitHub Activity Graph:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaian400&theme=react-dark)
-
+-->
 <!--
 **Jaian400/Jaian400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
