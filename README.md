@@ -11,7 +11,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Jaian400&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaian400&theme=dark&hide_border=true)
 
 <!--
 ## 📊 GitHub Stats:
